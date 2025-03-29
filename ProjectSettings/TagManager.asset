@@ -41,11 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: House
+    uniqueID: 870601427
+    locked: 0
+  - name: House2
+    uniqueID: 1049909077
+    locked: 0
   - name: Angel
     uniqueID: 3930136991
     locked: 0
   - name: Fountain
     uniqueID: 3226021607
+    locked: 0
+  - name: Player
+    uniqueID: 3890930615
     locked: 0
   m_RenderingLayers:
   - Default

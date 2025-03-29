@@ -61,7 +61,7 @@ public class TimeManager : MonoBehaviour
     {
         if (timeDisplayText != null)
         {
-            string timeString = simulatedTime.ToString("HH:mm:ss - dd/MM/yyyy");
+            string timeString = simulatedTime.ToString("HH:mm:ss");
             timeDisplayText.text = timeString;
 
         }
